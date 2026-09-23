@@ -109,9 +109,6 @@ Best Validation Accuracy: XX.XX%
 
 This project is for educational and research purposes only. It is not intended for clinical use and has not been validated for medical diagnosis.
 
-## License
-
-Add your preferred license here (e.g. MIT).
 
 ## Acknowledgments
 
